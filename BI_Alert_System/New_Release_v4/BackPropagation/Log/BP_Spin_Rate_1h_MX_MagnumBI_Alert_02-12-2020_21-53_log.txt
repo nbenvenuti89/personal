@@ -1,3 +1,0 @@
-2020-01-27 09:50:00
-e = Spin_Rate_1h
-Rule Based = True
