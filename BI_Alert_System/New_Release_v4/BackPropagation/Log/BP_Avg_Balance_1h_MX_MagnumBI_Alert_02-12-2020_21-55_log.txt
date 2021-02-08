@@ -1,0 +1,3 @@
+2020-01-27 09:50:00
+e = Avg_Balance_1h
+Rule Based = True
